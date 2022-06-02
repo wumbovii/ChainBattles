@@ -17,7 +17,7 @@ npx hardhat help
 # Deployed contract
 0xDfF42208b39AAaD1814aaE101884CfE7fF85ff10
 
-# Eth scan
+# Eth scan NFT contract
 https://mumbai.polygonscan.com/address/0xDfF42208b39AAaD1814aaE101884CfE7fF85ff10
 
 # Dev flow
